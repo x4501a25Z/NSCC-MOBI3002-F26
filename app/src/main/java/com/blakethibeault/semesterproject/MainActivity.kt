@@ -84,3 +84,5 @@ fun ReusableButton(buttonText : String, toastMessage : String) {
 // 4. Add logging that shows up on Logcat - Completed at 8:40pm
 // 5. Add a second button. - Completed at 8:46pm
 // 6. Extract a reusable composable. - Completed at 9:21pm
+
+// I have severely messed something up. This is my attempt to fix it
