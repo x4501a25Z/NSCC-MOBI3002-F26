@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">lab2</string>
-    <string name="cart_button">Add to Cart</string>
+    <string name="app_title">Burridge e-Library</string>
+    <string name="logo_description">Main App Logo, Book Cover</string>
+    // Cart Handling Buttons
+    <string name="add_to_cart_button">Add to Cart</string>
+    <string name="already_in_cart_button">In Cart</string>
+    <string name="clear_cart_button">Clear</string>
+    <string name="show_cart_button">Show</string>
+    <string name="hide_cart_button">Hide</string>
+    // Genre Headers
+    <string name="scifi_genre">Science Fiction</string>
+    <string name="classic_genre">Classic</string>
+    <string name="fantasy_genre">Fantasy</string>
+
 </resources>
