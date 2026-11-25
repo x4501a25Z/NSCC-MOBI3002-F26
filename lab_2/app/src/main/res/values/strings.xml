@@ -12,5 +12,8 @@
     <string name="scifi_genre">Science Fiction</string>
     <string name="classic_genre">Classic</string>
     <string name="fantasy_genre">Fantasy</string>
+    // General Error Messages
+    <string name="unknown_item">Unknown Item</string>
+    <string name="unknown_screen">Unknown Screen</string>
 
 </resources>
